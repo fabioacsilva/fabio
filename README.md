@@ -4,4 +4,6 @@ My name is Fábio Silva and I am a software engineer from Portugal. I started wo
 
 🌱 I strive to keep on learning new stuff 
 
-📬 If you would like to know a bit more about me and the work I have done, reach out to me via [![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabioacsilva/)](https://www.linkedin.com/in/fabioacsilva/)  
+📬 If you would like to know a bit more about me and the work I have done, reach out to me on LinkedIn
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabioacsilva/)](https://www.linkedin.com/in/fabioacsilva/)  
