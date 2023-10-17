@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-My name is Fábio Silva and I am a software engineer from Portugal. I started working as a Fullstack Engineer in 2017 and since 2018 I have been focused in Backend development. I have acquired my taste for coding while I was taking my Master's in Electrical and Computer Engineering! I love working with Java and Kotlin 🤓. 
+My name is Fábio Silva and I am a software engineer from Portugal. I started working as a Fullstack Engineer in 2017 and since 2018 I have been focused in Backend development. I have acquired my taste for coding while I was taking my Master's in Electrical and Computer Engineering! Then majority of my experience is with JVM, but I'm up for any challenge. I love System Design and I'm also interested in Site Reliability Engineering!
 
 🌱 I love learning 
 
